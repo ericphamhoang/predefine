@@ -1,0 +1,26 @@
+//col-lg-2
+
+.nbw-row
+  overflow hidden
+  background white
+
+preCol(num)
+  .nbw-col-lg-{num}
+    width unit(8.3*num, '%') !important
+    padding 5px
+    float left
+    img
+      width 100%
+
+preColMobile(num)
+  .nbw-col-lg-{num}
+    width unit(100%, '%') !important
+    padding 5px
+    float none
+
+for num in (1..12)
+  preCol(num)
+
+@media (max-width: 1024px)
+  for num in (1..12)
+    preColMobile(num)
