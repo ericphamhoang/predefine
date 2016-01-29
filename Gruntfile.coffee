@@ -16,8 +16,8 @@ module.exports = (grunt)->
       compile:
         options:
           paths: ['./']
-          linenos: false
-          compress: true
+          linenos: true
+          compress: false
         files:
           'main.css': 'main.styl'
     coffee:
