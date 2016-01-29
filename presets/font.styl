@@ -1,7 +1,10 @@
 preFont(num)
-    .font-size-{num}
-        font-size unit(num, 'px') !important
-        line-height unit(num+3, 'px') !important
+  .font-size-{num}
+    font-size unit(num, 'px') !important
+    line-height unit(num + 3, 'px') !important
+    *
+      font-size unit(num, 'px') !important
+      line-height unit(num + 3, 'px') !important
 
 for num in (1..100)
-    preFont(num)
+  preFont(num)

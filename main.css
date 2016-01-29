@@ -13,8 +13,20 @@
   line-height: 4px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-1 * {
+  font-size: 1px !important;
+  line-height: 4px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-2 {
+  font-size: 2px !important;
+  line-height: 5px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-2 * {
   font-size: 2px !important;
   line-height: 5px !important;
 }
@@ -25,8 +37,20 @@
   line-height: 6px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-3 * {
+  font-size: 3px !important;
+  line-height: 6px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-4 {
+  font-size: 4px !important;
+  line-height: 7px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-4 * {
   font-size: 4px !important;
   line-height: 7px !important;
 }
@@ -37,8 +61,20 @@
   line-height: 8px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-5 * {
+  font-size: 5px !important;
+  line-height: 8px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-6 {
+  font-size: 6px !important;
+  line-height: 9px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-6 * {
   font-size: 6px !important;
   line-height: 9px !important;
 }
@@ -49,8 +85,20 @@
   line-height: 10px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-7 * {
+  font-size: 7px !important;
+  line-height: 10px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-8 {
+  font-size: 8px !important;
+  line-height: 11px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-8 * {
   font-size: 8px !important;
   line-height: 11px !important;
 }
@@ -61,8 +109,20 @@
   line-height: 12px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-9 * {
+  font-size: 9px !important;
+  line-height: 12px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-10 {
+  font-size: 10px !important;
+  line-height: 13px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-10 * {
   font-size: 10px !important;
   line-height: 13px !important;
 }
@@ -73,8 +133,20 @@
   line-height: 14px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-11 * {
+  font-size: 11px !important;
+  line-height: 14px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-12 {
+  font-size: 12px !important;
+  line-height: 15px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-12 * {
   font-size: 12px !important;
   line-height: 15px !important;
 }
@@ -85,8 +157,20 @@
   line-height: 16px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-13 * {
+  font-size: 13px !important;
+  line-height: 16px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-14 {
+  font-size: 14px !important;
+  line-height: 17px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-14 * {
   font-size: 14px !important;
   line-height: 17px !important;
 }
@@ -97,8 +181,20 @@
   line-height: 18px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-15 * {
+  font-size: 15px !important;
+  line-height: 18px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-16 {
+  font-size: 16px !important;
+  line-height: 19px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-16 * {
   font-size: 16px !important;
   line-height: 19px !important;
 }
@@ -109,8 +205,20 @@
   line-height: 20px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-17 * {
+  font-size: 17px !important;
+  line-height: 20px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-18 {
+  font-size: 18px !important;
+  line-height: 21px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-18 * {
   font-size: 18px !important;
   line-height: 21px !important;
 }
@@ -121,8 +229,20 @@
   line-height: 22px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-19 * {
+  font-size: 19px !important;
+  line-height: 22px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-20 {
+  font-size: 20px !important;
+  line-height: 23px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-20 * {
   font-size: 20px !important;
   line-height: 23px !important;
 }
@@ -133,8 +253,20 @@
   line-height: 24px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-21 * {
+  font-size: 21px !important;
+  line-height: 24px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-22 {
+  font-size: 22px !important;
+  line-height: 25px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-22 * {
   font-size: 22px !important;
   line-height: 25px !important;
 }
@@ -145,8 +277,20 @@
   line-height: 26px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-23 * {
+  font-size: 23px !important;
+  line-height: 26px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-24 {
+  font-size: 24px !important;
+  line-height: 27px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-24 * {
   font-size: 24px !important;
   line-height: 27px !important;
 }
@@ -157,8 +301,20 @@
   line-height: 28px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-25 * {
+  font-size: 25px !important;
+  line-height: 28px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-26 {
+  font-size: 26px !important;
+  line-height: 29px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-26 * {
   font-size: 26px !important;
   line-height: 29px !important;
 }
@@ -169,8 +325,20 @@
   line-height: 30px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-27 * {
+  font-size: 27px !important;
+  line-height: 30px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-28 {
+  font-size: 28px !important;
+  line-height: 31px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-28 * {
   font-size: 28px !important;
   line-height: 31px !important;
 }
@@ -181,8 +349,20 @@
   line-height: 32px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-29 * {
+  font-size: 29px !important;
+  line-height: 32px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-30 {
+  font-size: 30px !important;
+  line-height: 33px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-30 * {
   font-size: 30px !important;
   line-height: 33px !important;
 }
@@ -193,8 +373,20 @@
   line-height: 34px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-31 * {
+  font-size: 31px !important;
+  line-height: 34px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-32 {
+  font-size: 32px !important;
+  line-height: 35px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-32 * {
   font-size: 32px !important;
   line-height: 35px !important;
 }
@@ -205,8 +397,20 @@
   line-height: 36px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-33 * {
+  font-size: 33px !important;
+  line-height: 36px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-34 {
+  font-size: 34px !important;
+  line-height: 37px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-34 * {
   font-size: 34px !important;
   line-height: 37px !important;
 }
@@ -217,8 +421,20 @@
   line-height: 38px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-35 * {
+  font-size: 35px !important;
+  line-height: 38px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-36 {
+  font-size: 36px !important;
+  line-height: 39px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-36 * {
   font-size: 36px !important;
   line-height: 39px !important;
 }
@@ -229,8 +445,20 @@
   line-height: 40px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-37 * {
+  font-size: 37px !important;
+  line-height: 40px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-38 {
+  font-size: 38px !important;
+  line-height: 41px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-38 * {
   font-size: 38px !important;
   line-height: 41px !important;
 }
@@ -241,8 +469,20 @@
   line-height: 42px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-39 * {
+  font-size: 39px !important;
+  line-height: 42px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-40 {
+  font-size: 40px !important;
+  line-height: 43px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-40 * {
   font-size: 40px !important;
   line-height: 43px !important;
 }
@@ -253,8 +493,20 @@
   line-height: 44px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-41 * {
+  font-size: 41px !important;
+  line-height: 44px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-42 {
+  font-size: 42px !important;
+  line-height: 45px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-42 * {
   font-size: 42px !important;
   line-height: 45px !important;
 }
@@ -265,8 +517,20 @@
   line-height: 46px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-43 * {
+  font-size: 43px !important;
+  line-height: 46px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-44 {
+  font-size: 44px !important;
+  line-height: 47px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-44 * {
   font-size: 44px !important;
   line-height: 47px !important;
 }
@@ -277,8 +541,20 @@
   line-height: 48px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-45 * {
+  font-size: 45px !important;
+  line-height: 48px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-46 {
+  font-size: 46px !important;
+  line-height: 49px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-46 * {
   font-size: 46px !important;
   line-height: 49px !important;
 }
@@ -289,8 +565,20 @@
   line-height: 50px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-47 * {
+  font-size: 47px !important;
+  line-height: 50px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-48 {
+  font-size: 48px !important;
+  line-height: 51px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-48 * {
   font-size: 48px !important;
   line-height: 51px !important;
 }
@@ -301,8 +589,20 @@
   line-height: 52px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-49 * {
+  font-size: 49px !important;
+  line-height: 52px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-50 {
+  font-size: 50px !important;
+  line-height: 53px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-50 * {
   font-size: 50px !important;
   line-height: 53px !important;
 }
@@ -313,8 +613,20 @@
   line-height: 54px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-51 * {
+  font-size: 51px !important;
+  line-height: 54px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-52 {
+  font-size: 52px !important;
+  line-height: 55px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-52 * {
   font-size: 52px !important;
   line-height: 55px !important;
 }
@@ -325,8 +637,20 @@
   line-height: 56px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-53 * {
+  font-size: 53px !important;
+  line-height: 56px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-54 {
+  font-size: 54px !important;
+  line-height: 57px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-54 * {
   font-size: 54px !important;
   line-height: 57px !important;
 }
@@ -337,8 +661,20 @@
   line-height: 58px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-55 * {
+  font-size: 55px !important;
+  line-height: 58px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-56 {
+  font-size: 56px !important;
+  line-height: 59px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-56 * {
   font-size: 56px !important;
   line-height: 59px !important;
 }
@@ -349,8 +685,20 @@
   line-height: 60px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-57 * {
+  font-size: 57px !important;
+  line-height: 60px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-58 {
+  font-size: 58px !important;
+  line-height: 61px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-58 * {
   font-size: 58px !important;
   line-height: 61px !important;
 }
@@ -361,8 +709,20 @@
   line-height: 62px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-59 * {
+  font-size: 59px !important;
+  line-height: 62px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-60 {
+  font-size: 60px !important;
+  line-height: 63px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-60 * {
   font-size: 60px !important;
   line-height: 63px !important;
 }
@@ -373,8 +733,20 @@
   line-height: 64px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-61 * {
+  font-size: 61px !important;
+  line-height: 64px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-62 {
+  font-size: 62px !important;
+  line-height: 65px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-62 * {
   font-size: 62px !important;
   line-height: 65px !important;
 }
@@ -385,8 +757,20 @@
   line-height: 66px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-63 * {
+  font-size: 63px !important;
+  line-height: 66px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-64 {
+  font-size: 64px !important;
+  line-height: 67px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-64 * {
   font-size: 64px !important;
   line-height: 67px !important;
 }
@@ -397,8 +781,20 @@
   line-height: 68px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-65 * {
+  font-size: 65px !important;
+  line-height: 68px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-66 {
+  font-size: 66px !important;
+  line-height: 69px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-66 * {
   font-size: 66px !important;
   line-height: 69px !important;
 }
@@ -409,8 +805,20 @@
   line-height: 70px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-67 * {
+  font-size: 67px !important;
+  line-height: 70px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-68 {
+  font-size: 68px !important;
+  line-height: 71px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-68 * {
   font-size: 68px !important;
   line-height: 71px !important;
 }
@@ -421,8 +829,20 @@
   line-height: 72px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-69 * {
+  font-size: 69px !important;
+  line-height: 72px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-70 {
+  font-size: 70px !important;
+  line-height: 73px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-70 * {
   font-size: 70px !important;
   line-height: 73px !important;
 }
@@ -433,8 +853,20 @@
   line-height: 74px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-71 * {
+  font-size: 71px !important;
+  line-height: 74px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-72 {
+  font-size: 72px !important;
+  line-height: 75px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-72 * {
   font-size: 72px !important;
   line-height: 75px !important;
 }
@@ -445,8 +877,20 @@
   line-height: 76px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-73 * {
+  font-size: 73px !important;
+  line-height: 76px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-74 {
+  font-size: 74px !important;
+  line-height: 77px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-74 * {
   font-size: 74px !important;
   line-height: 77px !important;
 }
@@ -457,8 +901,20 @@
   line-height: 78px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-75 * {
+  font-size: 75px !important;
+  line-height: 78px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-76 {
+  font-size: 76px !important;
+  line-height: 79px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-76 * {
   font-size: 76px !important;
   line-height: 79px !important;
 }
@@ -469,8 +925,20 @@
   line-height: 80px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-77 * {
+  font-size: 77px !important;
+  line-height: 80px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-78 {
+  font-size: 78px !important;
+  line-height: 81px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-78 * {
   font-size: 78px !important;
   line-height: 81px !important;
 }
@@ -481,8 +949,20 @@
   line-height: 82px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-79 * {
+  font-size: 79px !important;
+  line-height: 82px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-80 {
+  font-size: 80px !important;
+  line-height: 83px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-80 * {
   font-size: 80px !important;
   line-height: 83px !important;
 }
@@ -493,8 +973,20 @@
   line-height: 84px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-81 * {
+  font-size: 81px !important;
+  line-height: 84px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-82 {
+  font-size: 82px !important;
+  line-height: 85px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-82 * {
   font-size: 82px !important;
   line-height: 85px !important;
 }
@@ -505,8 +997,20 @@
   line-height: 86px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-83 * {
+  font-size: 83px !important;
+  line-height: 86px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-84 {
+  font-size: 84px !important;
+  line-height: 87px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-84 * {
   font-size: 84px !important;
   line-height: 87px !important;
 }
@@ -517,8 +1021,20 @@
   line-height: 88px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-85 * {
+  font-size: 85px !important;
+  line-height: 88px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-86 {
+  font-size: 86px !important;
+  line-height: 89px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-86 * {
   font-size: 86px !important;
   line-height: 89px !important;
 }
@@ -529,8 +1045,20 @@
   line-height: 90px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-87 * {
+  font-size: 87px !important;
+  line-height: 90px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-88 {
+  font-size: 88px !important;
+  line-height: 91px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-88 * {
   font-size: 88px !important;
   line-height: 91px !important;
 }
@@ -541,8 +1069,20 @@
   line-height: 92px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-89 * {
+  font-size: 89px !important;
+  line-height: 92px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-90 {
+  font-size: 90px !important;
+  line-height: 93px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-90 * {
   font-size: 90px !important;
   line-height: 93px !important;
 }
@@ -553,8 +1093,20 @@
   line-height: 94px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-91 * {
+  font-size: 91px !important;
+  line-height: 94px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-92 {
+  font-size: 92px !important;
+  line-height: 95px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-92 * {
   font-size: 92px !important;
   line-height: 95px !important;
 }
@@ -565,8 +1117,20 @@
   line-height: 96px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-93 * {
+  font-size: 93px !important;
+  line-height: 96px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-94 {
+  font-size: 94px !important;
+  line-height: 97px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-94 * {
   font-size: 94px !important;
   line-height: 97px !important;
 }
@@ -577,8 +1141,20 @@
   line-height: 98px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-95 * {
+  font-size: 95px !important;
+  line-height: 98px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-96 {
+  font-size: 96px !important;
+  line-height: 99px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-96 * {
   font-size: 96px !important;
   line-height: 99px !important;
 }
@@ -589,8 +1165,20 @@
   line-height: 100px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-97 * {
+  font-size: 97px !important;
+  line-height: 100px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-98 {
+  font-size: 98px !important;
+  line-height: 101px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-98 * {
   font-size: 98px !important;
   line-height: 101px !important;
 }
@@ -601,8 +1189,20 @@
   line-height: 102px !important;
 }
 
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-99 * {
+  font-size: 99px !important;
+  line-height: 102px !important;
+}
+
 /* line 2 : D:\predefine\presets\font.styl */
 .font-size-100 {
+  font-size: 100px !important;
+  line-height: 103px !important;
+}
+
+/* line 5 : D:\predefine\presets\font.styl */
+.font-size-100 * {
   font-size: 100px !important;
   line-height: 103px !important;
 }
@@ -618,11 +1218,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-1 {
   width: 8.3% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-1 img {
   width: 100%;
 }
@@ -630,11 +1229,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-2 {
   width: 16.6% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-2 img {
   width: 100%;
 }
@@ -642,11 +1240,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-3 {
   width: 24.900000000000002% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-3 img {
   width: 100%;
 }
@@ -654,11 +1251,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-4 {
   width: 33.2% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-4 img {
   width: 100%;
 }
@@ -666,11 +1262,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-5 {
   width: 41.5% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-5 img {
   width: 100%;
 }
@@ -678,11 +1273,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-6 {
   width: 49.800000000000004% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-6 img {
   width: 100%;
 }
@@ -690,11 +1284,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-7 {
   width: 58.10000000000001% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-7 img {
   width: 100%;
 }
@@ -702,11 +1295,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-8 {
   width: 66.4% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-8 img {
   width: 100%;
 }
@@ -714,11 +1306,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-9 {
   width: 74.7% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-9 img {
   width: 100%;
 }
@@ -726,11 +1317,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-10 {
   width: 83% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-10 img {
   width: 100%;
 }
@@ -738,11 +1328,10 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-11 {
   width: 91.30000000000001% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-11 img {
   width: 100%;
 }
@@ -750,97 +1339,84 @@
 /* line 8 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-12 {
   width: 99.60000000000001% !important;
-  padding: 5px;
   float: left;
 }
 
-/* line 12 : D:\predefine\presets\grid.styl */
+/* line 11 : D:\predefine\presets\grid.styl */
 .nbw-col-lg-12 img {
   width: 100%;
 }
 @media (max-width: 1024px) {
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-1 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-2 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-3 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-4 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-5 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-6 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-7 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-8 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-9 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-10 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-11 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 
-/* line 16 : D:\predefine\presets\grid.styl */
+/* line 15 : D:\predefine\presets\grid.styl */
   .nbw-col-lg-12 {
     width: 100% !important;
-    padding: 5px;
     float: none;
   }
 }
